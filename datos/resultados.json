@@ -1,5 +1,5 @@
 {
-    "actualizado": "14/06/2026 - 8:00 hs",
+    "actualizado": "15/06/2026 - 02:14 hs",
 
     "participantes":[
             "Alva83", "Ana Laura", "Buru", "Claudina", "DCH", "Eva", "Jorge Caig", "Juan", 
@@ -8,7 +8,7 @@
         ],
 
     "partidos": [
-     { "fecha": "11/06/2026", "hora": "16:00", "grupo": "A", "local": "México", "golesL": "2", "golesV": "0", "visita": "Sudáfrica", "puntos": [2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 0, 0, 1, 1, 1, 2, 1, 2, 1, 1, 2] },
+         { "fecha": "11/06/2026", "hora": "16:00", "grupo": "A", "local": "México", "golesL": "2", "golesV": "0", "visita": "Sudáfrica", "puntos": [2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 2, 0, 0, 1, 1, 1, 2, 1, 2, 1, 1, 2] },
      { "fecha": "11/06/2026", "hora": "23:00", "grupo": "A", "local": "Corea del Sur", "golesL": "2", "golesV": "1", "visita": "República Checa", "puntos": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2] },
      { "fecha": "18/06/2026", "hora": "13:00", "grupo": "A", "local": "República Checa", "golesL": "", "golesV": "", "visita": "Sudáfrica", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "18/06/2026", "hora": "22:00", "grupo": "A", "local": "México", "golesL": "", "golesV": "", "visita": "Corea del Sur", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
@@ -32,14 +32,14 @@
      { "fecha": "20/06/2026", "hora": "01:00", "grupo": "D", "local": "Turquía", "golesL": "", "golesV": "", "visita": "Paraguay", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "25/06/2026", "hora": "23:00", "grupo": "D", "local": "Turquía", "golesL": "", "golesV": "", "visita": "Estados Unidos", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "25/06/2026", "hora": "23:00", "grupo": "D", "local": "Paraguay", "golesL": "", "golesV": "", "visita": "Australia", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
-     { "fecha": "14/06/2026", "hora": "14:00", "grupo": "E", "local": "Alemania", "golesL": "", "golesV": "", "visita": "Curazao", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
-     { "fecha": "14/06/2026", "hora": "20:00", "grupo": "E", "local": "Costa de Marfil", "golesL": "", "golesV": "", "visita": "Ecuador", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
+     { "fecha": "14/06/2026", "hora": "14:00", "grupo": "E", "local": "Alemania", "golesL": "7", "golesV": "1", "visita": "Curazao", "puntos": [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] },
+     { "fecha": "14/06/2026", "hora": "20:00", "grupo": "E", "local": "Costa de Marfil", "golesL": "1", "golesV": "0", "visita": "Ecuador", "puntos": [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0] },
      { "fecha": "20/06/2026", "hora": "17:00", "grupo": "E", "local": "Alemania", "golesL": "", "golesV": "", "visita": "Costa de Marfil", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "20/06/2026", "hora": "21:00", "grupo": "E", "local": "Ecuador", "golesL": "", "golesV": "", "visita": "Curazao", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "25/06/2026", "hora": "17:00", "grupo": "E", "local": "Curazao", "golesL": "", "golesV": "", "visita": "Costa de Marfil", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "25/06/2026", "hora": "17:00", "grupo": "E", "local": "Ecuador", "golesL": "", "golesV": "", "visita": "Alemania", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
-     { "fecha": "14/06/2026", "hora": "17:00", "grupo": "F", "local": "Paises Bajos", "golesL": "", "golesV": "", "visita": "Japón", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
-     { "fecha": "14/06/2026", "hora": "23:00", "grupo": "F", "local": "Suecia", "golesL": "", "golesV": "", "visita": "Túnez", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
+     { "fecha": "14/06/2026", "hora": "17:00", "grupo": "F", "local": "Paises Bajos", "golesL": "2", "golesV": "2", "visita": "Japón", "puntos": [1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
+     { "fecha": "14/06/2026", "hora": "23:00", "grupo": "F", "local": "Suecia", "golesL": "5", "golesV": "1", "visita": "Túnez", "puntos": [1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1] },
      { "fecha": "20/06/2026", "hora": "14:00", "grupo": "F", "local": "Paises Bajos", "golesL": "", "golesV": "", "visita": "Suecia", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "21/06/2026", "hora": "01:00", "grupo": "F", "local": "Túnez", "golesL": "", "golesV": "", "visita": "Japón", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "25/06/2026", "hora": "20:00", "grupo": "F", "local": "Japón", "golesL": "", "golesV": "", "visita": "Suecia", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
@@ -79,7 +79,6 @@
      { "fecha": "23/06/2026", "hora": "17:00", "grupo": "L", "local": "Inglaterra", "golesL": "", "golesV": "", "visita": "Ghana", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "23/06/2026", "hora": "20:00", "grupo": "L", "local": "Panamá", "golesL": "", "golesV": "", "visita": "Croacia", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
      { "fecha": "27/06/2026", "hora": "18:00", "grupo": "L", "local": "Panamá", "golesL": "", "golesV": "", "visita": "Inglaterra", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
-     { "fecha": "27/06/2026", "hora": "18:00", "grupo": "L", "local": "Croacia", "golesL": "", "golesV": "", "visita": "Ghana", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] }
-    ]
-    
+     { "fecha": "27/06/2026", "hora": "18:00", "grupo": "L", "local": "Croacia", "golesL": "", "golesV": "", "visita": "Ghana", "puntos": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""] },
+    ]   
 }
